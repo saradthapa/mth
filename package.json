@@ -1,9 +1,9 @@
 {
-  "name": "reveal.js",
-  "version": "3.8.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "mth",
+  "version": "1.0.0",
+  "description": "Meditation on Twin Hearts",
+  "homepage": "http://github.com/saradthapa",
+  "subdomain": "mth",
   "main": "main.js",
   "scripts": {
     "test": "grunt test",
@@ -11,13 +11,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Sarad Thapa",
+    "email": "saradthapa@gmail.com",
+    "web": "http://twitter.com/saradthapa"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/saradthapa/mth.git"
   },
   "engines": {
     "node": ">=9.0.0"
