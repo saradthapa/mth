@@ -6,7 +6,6 @@
   "subdomain": "mth",
   "main": "main.js",
   "scripts": {
-    "test": "grunt test",
     "start": "grunt serve",
     "build": "grunt"
   },
