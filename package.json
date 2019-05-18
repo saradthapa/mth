@@ -5,9 +5,6 @@
   "homepage": "http://github.com/saradthapa",
   "subdomain": "mth",
   "main": "js/reveal.js",
-  "scripts": {
-    "start": "grunt serve"
-  },
   "author": {
     "name": "Sarad Thapa",
     "email": "saradthapa@gmail.com",
