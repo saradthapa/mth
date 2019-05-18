@@ -6,8 +6,7 @@
   "subdomain": "mth",
   "main": "js/reveal.js",
   "scripts": {
-    "start": "grunt serve",
-    "build": "grunt"
+    "start": "npm start"
   },
   "author": {
     "name": "Sarad Thapa",
