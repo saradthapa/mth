@@ -505,9 +505,9 @@ $controlsArrowAngleActive: 36deg;
 .reveal .progress {
 	position: absolute;
 	display: none;
-	height: 3px;
+	height: 5px;
 	width: 100%;
-	bottom: 0;
+	top: 0;
 	left: 0;
 	z-index: 10;
 
@@ -538,11 +538,11 @@ $controlsArrowAngleActive: 36deg;
 .reveal .slide-number {
 	position: absolute;
 	display: block;
-	right: 8px;
+	left: 8px;
 	bottom: 8px;
 	z-index: 31;
 	font-family: Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1;
 	color: #fff;
 	background-color: rgba( 0, 0, 0, 0.4 );
