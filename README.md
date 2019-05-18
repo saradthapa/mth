@@ -2,10 +2,9 @@
 
 For peace and illumunitaion
 
+## Presentation uses Reveal.js
 
-#### More reading
+## All the pictures and text are from open source. Most of the contents are copyrighted to Institute for Inner Studies, Philipines
 
-
-## Online Editor
 
 
