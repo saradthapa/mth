@@ -7,7 +7,7 @@
     "main": "js/reveal.js",
     "scripts": {
         "start": "grunt serve",
-        "build": "grunt"
+        "build": "grunt build"
     },
     "author": {
         "name": "Sarad Thapa",
